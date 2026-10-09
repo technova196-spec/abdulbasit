@@ -1,0 +1,6 @@
+{
+  "name": "WonderLand Toys",
+  "description": "WonderLand Toys - Pakistan's premier online toy store featuring educational toys, building blocks, RC cars, board games, and fast nationwide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
